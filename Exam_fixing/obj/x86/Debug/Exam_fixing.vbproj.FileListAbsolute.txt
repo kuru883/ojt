@@ -1,0 +1,9 @@
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\bin\Debug\Exam_fixing.exe
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\bin\Debug\Exam_fixing.pdb
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\bin\Debug\Exam_fixing.xml
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\obj\x86\Debug\Exam_fixing.Form1.resources
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\obj\x86\Debug\Exam_fixing.Resources.resources
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\obj\x86\Debug\Exam_fixing.vbproj.GenerateResource.Cache
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\obj\x86\Debug\Exam_fixing.exe
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\obj\x86\Debug\Exam_fixing.xml
+C:\Users\reign kaisen bonsa\OneDrive\Desktop\VB.net_projects\Exam_fixing\Exam_fixing\obj\x86\Debug\Exam_fixing.pdb
